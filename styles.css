@@ -1,0 +1,14 @@
+head {
+    background-color: black;
+    display:flex;
+    border-radius: 100%;
+}
+.text {
+    background-color: green;
+}
+.text2  {
+    background-color: green;
+}
+.text1  {
+    align-items:center;
+}

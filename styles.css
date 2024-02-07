@@ -1,14 +1,27 @@
-head {
+body {
     background-color: black;
+    color:hsl(0, 0%, 100%);
     display:flex;
-    border-radius: 100%;
+    justify-content:center;
 }
 .text {
-    background-color: green;
+    color: green;
 }
-.text2  {
-    background-color: green;
-}
-.text1  {
+.container {
     align-items:center;
+    background-color: hsl(0, 0%, 12%);
+    margin:10%;
+    padding:10%;
+    margin-bottom: 5%;
+    border-radius:5%;
+    
+}
+
+ img {
+    border-radius:50%;
+}
+.btn1  {
+     width:100%;
+     background-color:  hsl(0, 0%, 20%)
+     
 }

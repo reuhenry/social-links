@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 body {
     background-color: black;
     color:hsl(0, 0%, 100%);
     display:flex;
     justify-content:center;
+     font-family: "Inter", sans-serif 
 }
 .text {
     color: green;
@@ -22,6 +24,11 @@ body {
 }
 .btn1  {
      width:100%;
-     background-color:  hsl(0, 0%, 20%)
+     background-color:  hsl(0, 0%, 20%);
+     color: hsl(0, 0%, 100%);
+     padding:10px;
+     border-radius:10px;
+     border:none;
+
      
 }
